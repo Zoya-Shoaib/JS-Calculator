@@ -1,4 +1,4 @@
-#  JS-Calculator 🧮
+#  JS-Calculator 
 
 A functional web calculator built to practice **DOM manipulation** and **JavaScript logic**. This project focuses on handling mathematical strings and implementing error-prevention sequences.
 
